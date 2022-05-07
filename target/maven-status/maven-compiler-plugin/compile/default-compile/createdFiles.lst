@@ -1,0 +1,14 @@
+com\myFirstApp\SpringBoot\model\Educacion.class
+com\myFirstApp\SpringBoot\AppConfig.class
+com\myFirstApp\SpringBoot\Application.class
+com\myFirstApp\SpringBoot\controller\AuthController.class
+com\myFirstApp\SpringBoot\model\dto\UserDto.class
+com\myFirstApp\SpringBoot\WebSecurityConfig.class
+com\myFirstApp\SpringBoot\repository\EducacionRepository.class
+com\myFirstApp\SpringBoot\controller\EducacionController.class
+com\myFirstApp\SpringBoot\repository\AuthRepository.class
+com\myFirstApp\SpringBoot\service\EducacionService.class
+com\myFirstApp\SpringBoot\service\IEducacionService.class
+com\myFirstApp\SpringBoot\service\AuthService.class
+com\myFirstApp\SpringBoot\model\Usuario.class
+com\myFirstApp\SpringBoot\WebConfig.class
